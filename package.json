@@ -1,0 +1,26 @@
+{
+  "name": "travelpage",
+  "version": "1.0.0",
+  "description": "travel page",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/braunke/travelPage-.git"
+  },
+  "keywords": [
+    "travel"
+  ],
+  "author": "Kayla Braun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/braunke/travelPage-/issues"
+  },
+  "homepage": "https://github.com/braunke/travelPage-#readme",
+  "dependencies": {
+    "express": "^4.15.0",
+    "express-handlebars": "^3.0.0"
+  }
+}
